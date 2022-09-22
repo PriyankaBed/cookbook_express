@@ -1,0 +1,1658 @@
+{
+    "sys": {
+        "type": "Array"
+    },
+    "total": 3,
+    "skip": 0,
+    "limit": 100,
+    "items": [
+        {
+            "metadata": {
+                "tags": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "n7f3fgb05lp6"
+                    }
+                },
+                "type": "Entry",
+                "id": "2rciKOgSlM6Jw8AxCRs47n",
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "advertiseOurCookbook"
+                    }
+                },
+                "revision": 7,
+                "createdAt": "2022-08-31T13:35:23.060Z",
+                "updatedAt": "2022-09-07T19:04:28.642Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "recipeName": "Burger Recipe",
+                "featuredImage": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "sIgzsWACn29Iw4GAWfFkH"
+                    }
+                },
+                "datePublished": "2022-09-01T14:00+01:00",
+                "recipeIngredients": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Quantity",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-header-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Ingredients",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-header-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "½ tbsp ",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Olive Oil",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 ",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Onion peeled and finely chopped",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 x 500g pack ",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "British Beef Steak Mince 15% fat",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 egg",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Beaten",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 tsp",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Mixed dried herbs",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "4 slices",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Mature Cheddar (optional)",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "4 ",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "White rolls",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 ",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Beef Tomato, Sliced",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                }
+                            ],
+                            "nodeType": "table"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "recipeSteps": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Step1:  Heat the olive oil in a frying pan, add the onion and cook for 5 minutes until softened and starting to turn golden. Set aside. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Step2: In a bowl, combine the beef mince with the herbs and the egg. Season, add the onions and mix well. Using your hands, shape into 4 patties. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Step3: Cook the burgers on a preheated barbecue or griddle for 5-6 minutes on each side. While the second side is cooking, lay a slice of cheese on top to melt slightly (if using). ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Step4: Meanwhile, lightly toast the cut-sides of the buns on the barbecue. Fill with the lettuce, burgers and tomato slices. Serve with ketchup, if you like.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                }
+            }
+        },
+        {
+            "metadata": {
+                "tags": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "n7f3fgb05lp6"
+                    }
+                },
+                "type": "Entry",
+                "id": "6tOhjbpvnrq3guMs795KdX",
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "advertiseOurCookbook"
+                    }
+                },
+                "revision": 8,
+                "createdAt": "2022-08-31T13:35:05.983Z",
+                "updatedAt": "2022-09-07T18:54:24.046Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "recipeName": "Chocolate Cake",
+                "featuredImage": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "3K01r8Y2FCveHemU0iDgTC"
+                    }
+                },
+                "datePublished": "2022-09-01T13:00+01:00",
+                "recipeIngredients": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Quantity",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-header-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Ingredients",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-header-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "200 g",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Golden caster Sugar",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "200g",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Unsalted butter, Softened plus extra for the tins",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "4",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Large Eggs",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "200g",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Self-Raising Flour",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "2 tbsp",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Cocoa Powder",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 tsp",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Baking Powder",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "½ tsp",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Vanilla Extract",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "2 tbsp",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Milk",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                }
+                            ],
+                            "nodeType": "table"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "recipeSteps": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 1: Heat oven to 190C/170C fan/gas 5. Butter the base and sides of two 20cm round sandwich tins and line the bases with baking parchment. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 2 : In a large bowl, beat together 200g golden caster sugar, 200g softened unsalted butter, 4 large eggs, 200g self-raising flour, 2 tbsp cocoa powder, 1 tsp baking powder, ½ tsp vanilla extract, 2 tbsp milk and a pinch of salt until pale. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 3 : Divide the mixture between the prepared tins. Bake for 20 mins or until a skewer inserted into the centre of the cake comes out clean. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 4 : Leave to cool in the tin for 10 mins, then turn out onto a wire rack to cool completely. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 5: For the buttercream, put 100g chopped milk chocolate in a heatproof bowl and melt in the microwave, stirring every 30 secs. Leave the melted chocolate to cool for 5 mins. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 6: Mash 200g softened butter and 400g icing sugar together with a fork, then switch to a wooden spoon or electric beaters, if you have them. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 7: Sift in 5 tbsp cocoa powder with a pinch of salt and pour in the melted chocolate and 2 tbsp milk. Mix again until smooth. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 8 On a cake stand or large plate, sandwich the cakes together with half of the buttercream, then spread the rest on top. Decorate with chocolate shards, if you like. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 9: To make chocolate shards: melt 50g dark chocolate and pour it onto a tray lined with baking parchment or foil. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 10: Now melt 25g milk chocolate and 25g white chocolate and drizzle them over the dark chocolate before it sets. ",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "STEP 11: Shake the tray gently to level the mixture then leave to set somewhere cool. Chop into shards.",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                }
+            }
+        },
+        {
+            "metadata": {
+                "tags": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "n7f3fgb05lp6"
+                    }
+                },
+                "type": "Entry",
+                "id": "3VDpI7zKogXBccbXGAofEU",
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "advertiseOurCookbook"
+                    }
+                },
+                "revision": 27,
+                "createdAt": "2022-08-29T14:25:33.450Z",
+                "updatedAt": "2022-09-07T16:38:12.226Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "recipeName": "Pizza Recipe",
+                "featuredImage": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Asset",
+                        "id": "4rLEWfEEwNPiVaX2v4K7RA"
+                    }
+                },
+                "datePublished": "2022-08-31T15:00+01:00",
+                "recipeIngredients": {
+                    "data": {},
+                    "content": [
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Quantity",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-header-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "Ingredients",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-header-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 1/2 cups (355 ml) ",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "warm water (105°F-115°F)",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "3 3/4 cups (490g)",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "bread flour",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 package (2 1/4 teaspoons)",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "active dry yeast",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "2 tablespoons",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "2 teaspoons",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "kosher salt",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                },
+                                {
+                                    "data": {},
+                                    "content": [
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "1 teaspoon",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        },
+                                        {
+                                            "data": {},
+                                            "content": [
+                                                {
+                                                    "data": {},
+                                                    "content": [
+                                                        {
+                                                            "data": {},
+                                                            "marks": [],
+                                                            "value": "sugar",
+                                                            "nodeType": "text"
+                                                        }
+                                                    ],
+                                                    "nodeType": "paragraph"
+                                                }
+                                            ],
+                                            "nodeType": "table-cell"
+                                        }
+                                    ],
+                                    "nodeType": "table-row"
+                                }
+                            ],
+                            "nodeType": "table"
+                        },
+                        {
+                            "data": {},
+                            "content": [
+                                {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "",
+                                    "nodeType": "text"
+                                }
+                            ],
+                            "nodeType": "paragraph"
+                        }
+                    ],
+                    "nodeType": "document"
+                },
+                "recipeSteps": {
+                    "nodeType": "document",
+                    "data": {},
+                    "content": [
+                        {
+                            "nodeType": "paragraph",
+                            "data": {},
+                            "content": [
+                                {
+                                    "nodeType": "text",
+                                    "value": "Step 1:  Spread layers of butter and pizza sauce Take a ready-made pizza crust or a base. If you love healthy eating, go for wheat or a multi-grain base. Spread a layer of butter on the pizza base, followed by pizza sauce. ",
+                                    "marks": [],
+                                    "data": {}
+                                }
+                            ]
+                        },
+                        {
+                            "nodeType": "paragraph",
+                            "data": {},
+                            "content": [
+                                {
+                                    "nodeType": "text",
+                                    "value": "Step 2: If you do not have pizza sauce at home, you can use tomato ketchup. Chop the paneer into cubes and slice the capsicum. Once done, add a layer of grated cheese (keep the half to use as a topping) to the base and place paneer cubes and capsicum slices on the pizza base.",
+                                    "marks": [],
+                                    "data": {}
+                                }
+                            ]
+                        },
+                        {
+                            "nodeType": "paragraph",
+                            "data": {},
+                            "content": [
+                                {
+                                    "nodeType": "text",
+                                    "value": "Step 3: Bake the pizza Now, spread the remaining cheese on top of the veggies. Ensure that it applies evenly all over the pizza. Ideally, you must use mozzarella cheese, but if you do not have it, you can also use cheese cubes. Bake the pizza at 180 degrees  C for 10-15 minutes, depending on your oven.",
+                                    "marks": [],
+                                    "data": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "includes": {
+        "Asset": [
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "n7f3fgb05lp6"
+                        }
+                    },
+                    "type": "Asset",
+                    "id": "3K01r8Y2FCveHemU0iDgTC",
+                    "revision": 2,
+                    "createdAt": "2022-09-05T15:24:23.511Z",
+                    "updatedAt": "2022-09-05T15:29:51.212Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Chocolate Cake",
+                    "description": "The Best Chocolate Cake Recipe – A one bowl chocolate cake recipe that is quick, easy, and delicious! Updated with gluten-free, dairy-free, and egg-free options!\n\n",
+                    "file": {
+                        "url": "//images.ctfassets.net/n7f3fgb05lp6/3K01r8Y2FCveHemU0iDgTC/f75d96734dbc1b9b0abb988d92250df5/cake.jpg",
+                        "details": {
+                            "size": 194171,
+                            "image": {
+                                "width": 1000,
+                                "height": 1000
+                            }
+                        },
+                        "fileName": "cake.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "n7f3fgb05lp6"
+                        }
+                    },
+                    "type": "Asset",
+                    "id": "4rLEWfEEwNPiVaX2v4K7RA",
+                    "revision": 5,
+                    "createdAt": "2022-08-31T05:20:32.622Z",
+                    "updatedAt": "2022-09-05T15:47:20.764Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Pizza Image",
+                    "description": "Pizza is a worldwide favorite. The reason for pizza spread is that you can add anything to it and eat it anytime of the day and anywhere. The pizza originated in Italy and it is one of the favorite foods for adults and children.",
+                    "file": {
+                        "url": "//images.ctfassets.net/n7f3fgb05lp6/4rLEWfEEwNPiVaX2v4K7RA/f462fbb20b9f0fc0db080315afc55870/pizza.jpg",
+                        "details": {
+                            "size": 490934,
+                            "image": {
+                                "width": 2500,
+                                "height": 1619
+                            }
+                        },
+                        "fileName": "pizza.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            },
+            {
+                "metadata": {
+                    "tags": []
+                },
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "n7f3fgb05lp6"
+                        }
+                    },
+                    "type": "Asset",
+                    "id": "sIgzsWACn29Iw4GAWfFkH",
+                    "revision": 3,
+                    "createdAt": "2022-09-01T11:41:34.136Z",
+                    "updatedAt": "2022-09-02T15:40:06.677Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "locale": "en-US"
+                },
+                "fields": {
+                    "title": "Burger Recipe",
+                    "description": "The classic burger is an all time BBQ favourite! This super easy homemade beef burger recipe gives you delicious patties, packed with onions and herbs for extra flavour, that are perfect for topping with cheese, lettuce and tomato, and sandwiching between floury buns.",
+                    "file": {
+                        "url": "//images.ctfassets.net/n7f3fgb05lp6/sIgzsWACn29Iw4GAWfFkH/af658ef127f3c027c25c9b71d5bdc463/Burger.jpg",
+                        "details": {
+                            "size": 172470,
+                            "image": {
+                                "width": 1400,
+                                "height": 919
+                            }
+                        },
+                        "fileName": "Burger.jpg",
+                        "contentType": "image/jpeg"
+                    }
+                }
+            }
+        ]
+    }
+}
