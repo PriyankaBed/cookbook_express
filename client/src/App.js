@@ -11,7 +11,7 @@ function App() {
 
     useEffect(() => {
         axios
-            .get("http://localhost:3001/posts")
+            .get("http://localhost:5001/posts")
             .then((response) => {
                 console.log(response.data);
                 // setAssets(response.data);
@@ -27,7 +27,7 @@ function App() {
             <div className='header'>
                 <div className='logo'>
                     <img src={logo} alt='logo' key='logo' />
-                    <h2>Cookbook</h2>
+                    <h2>nom nom</h2>
                     <div className='menu-items'>
                         <div className='menu_name'>Home</div>
                         <div className='menu_name'>About</div>

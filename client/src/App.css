@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
 body {
-    background-color: #395b64;
+    background-color: #ffffff;
 }
 
 .container {
@@ -16,28 +25,32 @@ body {
     align-items: center;
 }
 .logo img {
-    height: 40px;
+    height: 45px;
 }
 
 .logo h2 {
-    font-size: 30px;
-    color: #a5c9ca;
+    font-size: 35px;
+    color: #000000;
+    font-family: 'Oi', cursive;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .header {
     align-items: center;
     gap: 2em;
     width: auto;
-    height: 50px;
+    height: 65px;
     display: flex;
     padding: 1rem;
-    background-color: #2c3333;
+    background-color: #A5C9CA
+    ;
     z-index: 1;
     position: sticky;
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.25rem;
-    border-bottom: 2px solid #2c3333;
+    /* border-bottom: 2px solid #2c3333; */
 }
 
 .nav {
@@ -103,8 +116,11 @@ body {
 
 .recipe-title {
     text-align: center;
-    color: #a5c9ca;
+    color: #2e2a2a;
     margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+    
+
 }
 
 .recipe-text {
@@ -146,8 +162,9 @@ body {
 table {
     border-collapse: collapse;
     margin: 3rem;
-    align-items: center;
-    max-width: 100%;
+    /* max-width: 100%; */
+    margin-left: 16rem;
+    width: 600px;
 }
 
 /* .tablesub {
@@ -162,9 +179,10 @@ table tr {
 
 table tr:first-of-type {
     color: #395b64;
-    background-color: #2c3333;
+    background-color: #e7f6f2;
     font-size: 20px;
-    font-weight: 100;
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 table tr:nth-of-type(even) {
@@ -173,7 +191,7 @@ table tr:nth-of-type(even) {
 }
 
 table tr:last-of-type {
-    border-bottom: 2px solid #2c3333;
+    /* border-bottom: 2px solid #2c3333; */
 }
 
 table td {
@@ -211,8 +229,9 @@ h1 {
 
 .para {
     text-align: justify;
-    color: #e7f6f2;
+    color: #000000;
     margin: 10px;
+    line-height: 23px;
 }
 
 .para_sub {
@@ -220,6 +239,7 @@ h1 {
 }
 
 .menu-items {
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     gap: 1rem;
     float: left;
