@@ -45,7 +45,8 @@
                     "sys": {
                         "type": "Link",
                         "linkType": "Asset",
-                        "id": "sIgzsWACn29Iw4GAWfFkH"
+                        "id": "sIgzsWACn29Iw4GAWfFkH",
+                        "url": "http://images.ctfassets.net/n7f3fgb05lp6/sIgzsWACn29Iw4GAWfFkH/af658ef127f3c027c25c9b71d5bdc463/Burger.jpg"
                     }
                 },
                 "datePublished": "2022-09-01T14:00+01:00",
@@ -558,7 +559,8 @@
                     "sys": {
                         "type": "Link",
                         "linkType": "Asset",
-                        "id": "3K01r8Y2FCveHemU0iDgTC"
+                        "id": "3K01r8Y2FCveHemU0iDgTC",
+                        "url": "http://images.ctfassets.net/n7f3fgb05lp6/3K01r8Y2FCveHemU0iDgTC/f75d96734dbc1b9b0abb988d92250df5/cake.jpg"
                     }
                 },
                 "datePublished": "2022-09-01T13:00+01:00",
@@ -1155,7 +1157,8 @@
                     "sys": {
                         "type": "Link",
                         "linkType": "Asset",
-                        "id": "4rLEWfEEwNPiVaX2v4K7RA"
+                        "id": "4rLEWfEEwNPiVaX2v4K7RA",
+                        "url": "http://images.ctfassets.net/n7f3fgb05lp6/4rLEWfEEwNPiVaX2v4K7RA/f462fbb20b9f0fc0db080315afc55870/pizza.jpg"
                     }
                 },
                 "datePublished": "2022-08-31T15:00+01:00",

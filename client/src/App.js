@@ -24,53 +24,57 @@ function App() {
     }, []);
     return (
         <div className='App'>
-            <div className='container'>
-                <header>
-                    <div className='wrapper'>
-                        <div className='wrapper_inner'>
-                            <span className='wrapper_span'></span>
-                        </div>
+            <div className='header'>
+                <div className='logo'>
+                    <img src={logo} alt='logo' key='logo' />
+                    <h2>Cookbook</h2>
+                    <div className='menu-items'>
+                        <div className='menu_name'>Home</div>
+                        <div className='menu_name'>About</div>
+                        <div className='menu_name'>News Letter</div>
                     </div>
-                </header>
+                </div>
+            </div>
+
+            <div className='container'>
                 <main>
-                    <div className='container_wrapper'>
-                        <div className='wrapper'>
-                            {entries.map((entry, index) => {
-                                console.log(index);
-                                return (
-                                    <div key={entry.sys.id}>
-                                        <div className='logo'>
-                                            <img src={logo} alt='logo' key='logo' />
-                                            <h2>Cookbook</h2>
-                                        </div>
-                                        <h1 className='recipe-title'>{entry.fields.recipeName}</h1>
-                                        <table>
-                                            <div className=''>
-                                                {entry.fields.recipeIngredients.content.map((content) => {
-                                                    if (content.nodeType === "table") {
-                                                        return content.content.map((row) => {
-                                                            return (
-                                                                <tr>
-                                                                    {row.content.map((col) => {
-                                                                        return <td>{col.content[0].content[0].value}</td>;
-                                                                    })}
-                                                                </tr>
-                                                            );
-                                                        });
-                                                    }
-                                                })}
-                                            </div>
-                                        </table>
+                    {entries.map((entry, index) => {
+                        console.log(index);
+                        return (
+                            <div key={entry.sys.id}>
+                                <h1 className='recipe-title'>{entry.fields.recipeName}</h1>
+                                <div className='imgmain'>
+                                    <img src={entry.fields.featuredImage.sys.url} alt={entry.fields.recipeName} />
+                                </div>
+                                <table>
+                                    <div className='tablesub'>
+                                        {entry.fields.recipeIngredients.content.map((content) => {
+                                            if (content.nodeType === "table") {
+                                                return content.content.map((row) => {
+                                                    return (
+                                                        <tr>
+                                                            {row.content.map((col) => {
+                                                                return <td>{col.content[0].content[0].value}</td>;
+                                                            })}
+                                                        </tr>
+                                                    );
+                                                });
+                                            }
+                                        })}
+                                    </div>
+                                </table>
+                                <div className='para'>
+                                    <div className='para_sub'>
                                         {entry.fields.recipeSteps.content.map((content) => {
                                             if (content.nodeType === "paragraph") {
                                                 return <p>{content.content[0].value}</p>;
                                             }
                                         })}
                                     </div>
-                                );
-                            })}
-                        </div>
-                    </div>
+                                </div>
+                            </div>
+                        );
+                    })}
                 </main>
             </div>
         </div>
